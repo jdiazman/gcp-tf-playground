@@ -1,6 +1,6 @@
 # 🌐 GCP Terraform Playground 🚀
 
-Welcome to my **GCP Terraform Playground**! This repository serves as a playgroundfor my journey in improving my skillset in  **Google Cloud Platform (GCP)**, **Terraform**, and **DevOps** practices. Here, I explore infrastructure as code (IaC), CI/CD pipelines, testing strategies, and other essential skills for modern cloud engineering.
+Welcome to my **GCP Terraform Playground**! This repository serves as a playground for my journey in improving my skillset in  **Google Cloud Platform (GCP)**, **Terraform**, and **DevOps** practices. Here, I explore infrastructure as code (IaC), CI/CD pipelines, testing strategies, and other essential skills for modern cloud engineering.
 
 ---
 
